@@ -27,6 +27,6 @@ The user interface is very intuitive and easy to use. Feel free to take a look a
 
 * **Jurica Kenda** - *Initial work* - [JuricaKenda](https://github.com/juricaKenda)
 
-## License\
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
