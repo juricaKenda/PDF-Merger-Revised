@@ -8,7 +8,7 @@ The user interface is very intuitive and easy to use. Feel free to take a look a
 * Upon selecting a particular .pdf file, the application will assume you want to copy the entire file, and therefore mark the entire page count as selected
 * If you wish to copy only particular pages, you can configure that in the 'From - To' section
 * It is possible to use up to 5 .pdf files per session
-* It is possible to use only 1 .pdf file 
+* You have an option to use only 1 .pdf file , if necessary
 
 ## Start screen
 ![](/Visuals/welcomeScreen.png)
